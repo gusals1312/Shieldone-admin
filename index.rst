@@ -6,6 +6,7 @@ Contents:
 .. toctree::
     :maxdepth: 2
     
+    admin_manual0
     case_study
     admin_manual
     
